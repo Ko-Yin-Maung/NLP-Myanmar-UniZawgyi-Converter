@@ -2,7 +2,7 @@
 
 မြန်မာ ဘာသာစကား အတွက် Unicode <--> Zawgyi Converter tool တစ်ခု ဖြစ်ပါသည်။
 
-![Result](https://github.com/Ko-Yin-Maung/NLP-Myanmar-Tokenizer/blob/main/result1.png)
+![Result](https://github.com/Ko-Yin-Maung/NLP-Myanmar-UniZawgyi-Converter/blob/main/Result.png)
 
 မြန်မာ ဘာသားစကားကို အတွက် data collection အဆင့်မှာ တစ်ထောင့်တစ်နေရာက အကူအညီ ပေးနိုင်မယ်လို့ မျှော်လင့်မိပါတယ်။
 
